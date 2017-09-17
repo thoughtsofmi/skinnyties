@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+  }
+  #redbox {
+
+  }
+  .orangetop {
+    color: white;
+    font-size: 10px;
+  }
+  ul {
+      background-color: #f76941;
+      padding: 20px;
+      margin-top:0;
+      margin-right: 20px;
+  }
+  ul li {
+      display: inline;
+      padding: 5px;
+  }
